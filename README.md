@@ -20,7 +20,6 @@ This release is about transparency and giving back to the tuning community. The 
 
 - `ECU Binarys/` – Folder containing **15,493 ECU binaries**, organized by internal naming structure.
 - Files are unmodified dumps from the original MODSFinder client during license-valid access.
-- Metadata about supported models will be added in a later update.
 
 > ⚠️ Note: **I dont know** how relevant these files are today or if they have been leaked already.
 
